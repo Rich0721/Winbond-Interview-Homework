@@ -12,7 +12,7 @@
 
 請參考下圖：
 
-<img src="imgs/Homework.png" width=300>
+<img src="imgs/Homework.png" width=600>
 
 ### 1-2 資料夾架構
 
@@ -76,7 +76,7 @@ pip install -r requirment.txt
 python main.py --root_dir="./Root"
 ```
 
-[imgs/4-1.png]
+<img src="imgs/4-1.png" width=300>
 
 ### 4-2 計算容量
 
@@ -84,7 +84,7 @@ python main.py --root_dir="./Root"
 python main.py --root_dir="./Root" --target_dir="Folder1"  --calucate_size
 ```
 
-[imgs/4-2.png]
+<img src="imgs/4-2.png" width=300>
 
 ### 4-3 副檔名搜尋
 
@@ -92,7 +92,7 @@ python main.py --root_dir="./Root" --target_dir="Folder1"  --calucate_size
 python main.py --root_dir="./Root" --extension=".jpg"
 ```
 
-[imgs/4-3.png]
+<img src="imgs/4-3.png" width=300>
 
 ### 4-4 xml格式
 
@@ -100,4 +100,4 @@ python main.py --root_dir="./Root" --extension=".jpg"
 python main.py --root_dir="./Root" --xml_tree
 ```
 
-[imgs/4-4.png]
+<img src="imgs/4-4.png" width=300>
