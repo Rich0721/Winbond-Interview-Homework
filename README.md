@@ -17,19 +17,19 @@
 ### 1-2 資料夾架構
 
 project/
-│── main.py
-│── constants.py
-│── requirements.txt
-│── imgs/
-│ └── Homework.png
-│── File
-│ ├── File.py
-│ ├── ImageFile.py
-│ └── TextFile.py
-│ └── WordFile.py
-│── Directory
-│ ├── Directory.py
-│── README.md
+│── main.py<br>
+│── constants.py<br>
+│── requirements.txt<br>
+│── imgs/<br>
+│ └── Homework.png<br>
+│── File<br>
+│ ├── File.py<br>
+│ ├── ImageFile.py<br>
+│ └── TextFile.py<br>
+│ └── WordFile.py<br>
+│── Directory<br>
+│ ├── Directory.py<br>
+│── README.md<br>
 
 ## II. 需要套件與軟體
 
