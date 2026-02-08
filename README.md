@@ -12,11 +12,11 @@
 
 請參考下圖：
 
-[imgs/Homework.png]
+<img src="imgs/Homework.png" width=300>
 
 ### 1-2 資料夾架構
 
-project/
+project/<br>
 │── main.py<br>
 │── constants.py<br>
 │── requirements.txt<br>
