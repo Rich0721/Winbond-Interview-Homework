@@ -1,7 +1,4 @@
 # Winbond Interview Homework
-
-本專案為 Winbond 面試作業，依照需求信件內容實作，並依 UML Class 設計完成檔案掃描、文件處理、PDF 轉換、頁數計算與 XML Tree 輸出等功能。
-
 ---
 
 ## I. 需求來源
